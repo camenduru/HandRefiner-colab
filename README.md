@@ -16,6 +16,9 @@ https://github.com/wenquanlu/HandRefiner
 https://arxiv.org/abs/2311.17957
 
 ### 🖼 Output
+
+![Screenshot 2024-01-08 175646](https://github.com/camenduru/HandRefiner-colab/assets/54370274/5962b679-877e-4cc3-91dd-01c0ec379167)
+
 ![banner](https://github.com/camenduru/HandRefiner-colab/assets/54370274/59ba36ff-ec0d-4403-a6a9-c0bc01eab70e)
 
 ### 🏢 Sponsor
